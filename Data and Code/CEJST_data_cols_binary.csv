@@ -1,0 +1,33 @@
+col_name,name_short,EJ_category,name_long
+below_200_FPL,Low Income (below 200% FPL),Socioeconomic Burden,below 200% Federal Poverty Line >= 65th percentile
+Ag_Loss_Rate,Agricultural Loss,Climate Change,Expected agriculture loss rate >=  90th percentile
+Bld_Loss_Rate,Building Loss,Climate Change,Expected building loss rate >= 90th percentile
+Pop_Loss_Rate,Population Loss,Climate Change,Expected population loss rate >= 90th percentile
+Flood_30Years,Flood Risk,Climate Change,Projected flood risk >= 90th percentile
+Fire_30Years,Fire Risk,Climate Change,Projected wildfire risk >= 90th percentile
+Energy_Burden,Energy Burden,Energy,Energy cost >= 90th percentile
+PM25,PM2.5,Energy,PM 2.5 in the air >= 90th percentile
+Diesel_PM,Diesel PM,Transportation,Diesel particulate matter >= 90th percentile
+Traffic_Proximity_Volume,Traffic,Transportation,Traffic proximity and volume >= 90th percentile
+DOT_Travel_Barrier,Travel Barrier,Transportation,DOT Travel Barriers Score >= 90th percentile
+Housing_Burden,Housing Burden,Housing,Housing cost >= 90th percentile
+House_pre1960_Lead,Lead Paint,Housing,Percent pre-1960s housing (lead paint indicator) >= 90th percentile
+Lack_Green_Space,Green Space,Housing,Lack of green space >= 90th percentile
+Historic_Underinvest,Historical Underinvestment,Housing,Tract experienced historic underinvestment
+Lack_Plumbing,Indoor Plumbing,Housing,Lack of indoor plumbing >= 90th percentile
+Hazard_Waste_Sites,Hazard Waste Sites,Legacy Pollution,Proximity to hazardous waste sites >= 90th percentile
+Superfund_Sites,Superfund Sites,Legacy Pollution,Proximity to NPL (Superfund) sites >= 90th percentile
+RMP_Sites,RMP Sites,Legacy Pollution,Proximity to Risk Management Plan (RMP) facilities >= 90th percentile
+FUDS,FUDS,Legacy Pollution,"Is there at least one Formerly Used Defense Site (FUDS) in the tract, where missing data is treated as False?"
+Abandoned_Mine,Abandoned Mine,Legacy Pollution,"Is there at least one abandoned mine in this census tract, where missing data is treated as False?"
+Wastewater_Discharge,Wastewater Discharge,Waste and Wastewater,Wastewater discharge >= 90th percentile
+Leaky_Tanks,Leaky Tanks,Waste and Wastewater,Leaky underground storage tanks >= 90th percentile
+Asthma,Asthma,Health,Asthma >= 90th percentile
+Diabetes,Diabetes,Health,Diabetes >= 90th percentile
+Heart_Disease,Heart Disease,Health,Coronary heart disease >= 90th percentile
+Low_Life_Expectancy,Low Life Expectancy,Health,Low life expectancy >= 90th percentile
+Low_Median_HH_Income,Low Household Income,Workforce Development,Low median household income >= 90th percentile
+Linguistic_isolation,Linguistic Isolation,Workforce Development,Linguistic isolation >= 90th percentile
+Unemployment,Unemployment,Workforce Development,Unemployment >= 90th percentile
+Poverty,Poverty (below 100% FPL),Workforce Development,Poverty >= 90th percentile
+HS_education,High School Education,Socioeconomic Burden,High school education < 10 percent

@@ -1,0 +1,41 @@
+col_name,name_short,EJ_category,name_long
+ftclrkp,Climate Risk,Climate and Disaster,Future climate risk sub-component score
+annllsp,Disaster Damages,Climate and Disaster,Estimated annualized loss due to disasters
+mnmpp,Green Space,Climate and Disaster,Average Percent Land classified as Impervious Surface per Tract
+oznp,Ozone,Environmental Burden,Ozone level in the air
+pm25p,PM2.5,Environmental Burden,Particulate Matter 2.5 (PM2.5) level in the air
+dslpmp,Diesel PM,Environmental Burden,Diesel particulate matter level in air
+cncrtxp,Air Toxics,Environmental Burden,Air toxics cancer risk
+hzrdstp,Hazardous Sites,Environmental Burden,Percent of tract within 1 mile of known hazardous sites
+txcrlsp,Toxic Release Sites,Environmental Burden,Percent of tract within 1 mile of known Toxics Release sites
+trtdspp,TSD facilities,Environmental Burden,Percent of tract within 1 mile of known Treatment and Disposal Facilities
+rskmnsp,RMP Sites,Environmental Burden,Percent of tract within 1 mile of known Risk Management Plan Sites
+clmnsp,Abandoned Coal Mines,Environmental Burden,Percent of tract within 1 mile of non-abandoned Coal Mines
+ldmnsp,Abandoned Lead Mines,Environmental Burden,Percent of tract within 1 mile of non-abandoned Lead Mines
+ppr80hp,Lead Paint,Environmental Burden,Percent of houses built before 1980
+hghvlrp,Traffic,Environmental Burden,Percent of tract within 1 mile of high volume roads
+rlwysp,Railways,Environmental Burden,Percent of tract within 1 mile of railways
+arprtsp,Airiports,Environmental Burden,Percent of tract within 5 miles of airports
+prtsp,Ports,Environmental Burden,Percent of tract within 3 miles of ports
+imprdwp,Impaired Water,Environmental Burden,Percent of tract that intersects with a Watershed containing impaired water(s)
+asthmp,Asthma,Health Vulnerability,Asthma prevalence
+cncrp,Cancer,Health Vulnerability,Cancer prevalence
+bldprsp,High Blood Pressure,Health Vulnerability,High blood pressure prevalence
+dbtsp,Diabetes,Health Vulnerability,Diabetes prevalence
+mntlhlp,Poor Mental Health,Health Vulnerability,Poor mental health prevalence
+ppvrtyp,Low Income (below 200% FPL),Social Vulnerability,Percent of population with Income below 200% of poverty level
+pndplmp,High School Education,Social Vulnerability,Percent of people age 25+ with less than a high school diploma
+pnmplyp,Unemployment,Social Vulnerability,Percent of people age 16+ unemployed
+phstnrp,Renters,Social Vulnerability,Percent of total housing units that are renter-occupied
+phbrd7p,Housing Costs,Social Vulnerability,Percent of occupied houses that spend 30% or more of their income on housing with less than 75k income
+pnnsrdp,No Health Insurance,Social Vulnerability,Percent of population uninsured
+pnntrnp,No Internet,Social Vulnerability,Percent of households with no internet subscription
+endnqlp,Income Inequality,Social Vulnerability,GINI Index
+p65ldrp,Population over 64,Social Vulnerability,Percent of population 65 years or older
+p17yngp,Population under 18,Social Vulnerability,Percent of population 17 years or younger
+pdsbp,Disabled Population,Social Vulnerability,Percent of population with a disability
+plmngp,Linguistic Isolation,Social Vulnerability,Percent of population (age 5+) with limited English proficiency
+pmblhmp,Mobile Homes,Social Vulnerability,Percent of total housing units that are mobile homes
+trnsacp,Transportation Access,Transportation Insecurity,Transportation access sub-component score
+avghhtp,Transportation Costs,Transportation Insecurity,Calculated average annual cost of Transportation as percent of household income
+ftltspp,Traffic Fatalities,Transportation Insecurity,"Traffic Fatalities per 100,000 people"

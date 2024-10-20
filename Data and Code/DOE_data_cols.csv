@@ -1,0 +1,37 @@
+col_name,name_short,EJ_category,name_long
+nongrid_heat_pct,Heating Fuel,Energy Burden,Non-grid-connected heating fuel
+avg_transport_burden,Transportation Costs,Energy Burden,Transportation Costs
+avg_energy_burden,Energy Burden,Energy Burden,Energy Burden compare to income
+grid_outages_county,Power Outage Events,Energy Burden,Outage Events
+grid_outage_duration,Power Outage Duration,Energy Burden,Outage Duration
+lead_paint_pct,Lead Paint,Environment and Climate,Homes Built Before 1960
+fema_loss_of_life,Loss of Life,Environment and Climate,Climate Hazards Loss of Life estimates 
+ej_diesel,Diesel,Environment and Climate,Diesel
+ej_cancer,Cancer Risk,Environment and Climate,Cancer Risk
+ej_traffic,Traffic,Environment and Climate,Traffic Proximity 
+ej_water,Water Discharge,Environment and Climate,Water Discharge 
+ej_npl,Superfund Sites,Environment and Climate,NPL Proximity 
+ej_remediation,RMP Sites,Environment and Climate,RMP Proximity 
+ej_tsdf,TSD facilities,Environment and Climate,TSDF Proximity 
+ej_pm25,PM2.5,Environment and Climate,PM25 
+fossil_emp_rank,Fossil Energy Employment,Fossil Dependence,Fossil energy employment
+coal_emp_rank,Coal Employment,Fossil Dependence,Coal employmentb 
+over64_pct,Population over 64,Vulnerable Population,Population 65 and older 
+disability_pct,Disabled Population,Vulnerable Population,Disabled population
+lessHS_pct,High School Education,Vulnerable Population,Less HS Education 
+uninsured_pct,No Health Insurance,Vulnerable Population,Uninsured 
+linguistic_isolation_pct,Linguistic Isolation,Vulnerable Population,Linguistic Isolation
+mobile_home_pct,Mobile Home,Vulnerable Population,Mobile Home 
+incomplete_plumbing_pct,Plumbing,Vulnerable Population,Incomplete Plumbing 
+renters_pct,Renters,Vulnerable Population,Renters 
+single_parent_pct,Single Parent,Vulnerable Population,Single Parent 
+unemployed_pct,Unemployment,Vulnerable Population,Unemployed 
+no_car_pct,No Vehicle,Vulnerable Population,No Vehicle 
+no_internet_pct,No Internet,Vulnerable Population,Internet Access 
+over_30min_commute_pct,over 30min Commute,Vulnerable Population,>30 min commute 
+lowincome_fpl_pct,Low Income (below 200% FPL),Vulnerable Population,Low Income Population 
+avg_housing_burden,Housing Costs,Vulnerable Population,Housing Costs 
+job_access,Job Access,Vulnerable Population,Job Access
+unhoused_pct,Homelessness,Vulnerable Population,Homelessness 
+green_space,Green Space,Vulnerable Population,Parks
+food_desert_pct,Food Desert,Vulnerable Population,Food Desert 

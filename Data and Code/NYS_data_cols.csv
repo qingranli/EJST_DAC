@@ -1,0 +1,46 @@
+col_name,name_short,EJ_category,name_long
+Benzene_Concentration,Benzene,Potential Pollution,Benzene air concentration
+Particulate_Matter_25,PM2.5,Potential Pollution,PM2.5 air concentration
+Traffic_Truck_Highways,Diesel Truck /Bus Traffic,Potential Pollution,Diesel trucks and bus traffic
+Traffic_Number_Vehicles,Vehicle Traffic,Potential Pollution,Vehicle traffic density
+Wastewater_Discharge,Wastewater Discharge,Potential Pollution,Proximity to wastewater discharge
+Housing_Vacancy_Rate,Housing Vacancy,Land Use and Facility Siting,Housing vacancy rate
+Industrial_Land_Use,Industrial Land,Land Use and Facility Siting,"Industrial, mining, and manufacturing"
+Landfills,Landfills,Land Use and Facility Siting,Proximity to active landfills
+Oil_Storage,Oil Storage,Land Use and Facility Siting,Proximity to major oil storage facilities
+Municipal_Waste_Combustors,Waste Combustors,Land Use and Facility Siting,Proximity to municipal waste combustors
+Power_Generation_Facilities,Power Plants,Land Use and Facility Siting,Proximity to power generation facilities
+RMP_Sites,RMP Sites,Land Use and Facility Siting,Proximity to risk management plan sites
+Remediation_Sites,Remediation Sites,Land Use and Facility Siting,Proximity to remediation sites
+Scrap_Metal_Processing,Scrap Metal Processors,Land Use and Facility Siting,Proximity to scrap metal processing and vehicle dismantlers
+Agricultural_Land_Use,Agricultural Land,Climate Change Risks,Agricultural Land
+Coastal_Flooding_Storm_Risk,Coastal Flooding,Climate Change Risks,Projected flood risk for coastal areas
+Days_Above_90_Degrees_2050,Extreme Heat,Climate Change Risks,Projected days above 90 F
+Drive_Time_Healthcare,Access to Healthcare,Climate Change Risks,Driving time to healthcare facility
+Inland_Flooding_Risk,Inland Flooding,Climate Change Risks,Projected flood risk for inland areas
+Low_Vegetative_Cover,Green Space,Climate Change Risks,Low vegetative cover
+Asian_Percent,Asian,Race and Ethnicity,Asian population
+Black_African_American_Percent,African American,Race and Ethnicity,Black or African American population
+Redlining_Updated,Redlining,Race and Ethnicity,Historical redlining
+Latino_Percent,Latino/Hispanic,Race and Ethnicity,Hispanic and Latino population
+English_Proficiency,Linguistic Isolation,Race and Ethnicity,Limited English proficiency
+Native_Indigenous,Indigenous Population,Race and Ethnicity,Native American or Indigenous population
+LMI_80_AMI,Low Household Income,Income,Population earning < 80% of area median income
+LMI_Poverty_Federal,Poverty (below 100% FPL),Income,Poverty rate below 100% federal level
+Population_No_College,No Bachelor Degree,Income,Adults without Bachelor degree
+Household_Single_Parent,Single Parent,Income,Single parent households
+Unemployment_Rate,Unemployment,Income,Unemployment rate
+Asthma_ED_Rate,Asthma,Health,Asthma emergency department visits
+COPD_ED_Rate,COPD,Health,COPD emergency department visits
+Households_Disabled,Disabled Population,Health,Population with a disability
+Low_Birth_Weight,Low Birth Weight,Health,Low birth weight births
+MI_Hospitalization_Rate,Heart Disease,Health,Myocardial infarction hospitalizations
+Health_Insurance_Rate,No Health Insurance,Health,Population without health insurance
+Age_Over_65,Population over 64,Health,Population over age 65
+Premature_Deaths,Premature Deaths,Health,Premature deaths
+Internet_Access,No Internet,Housing Mobility & Communications,Households without Internet access
+Home_Energy_Affordability,Energy Burden,Housing Mobility & Communications,Energy affordability
+Homes_Built_Before_1960,Lead Paint,Housing Mobility & Communications,Homes built before 1960
+Mobile_Homes,Mobile Home,Housing Mobility & Communications,Manufactured and mobile homes
+Rent_Percent_Income,Housing Costs,Housing Mobility & Communications,Rental housing cost burden
+Renter_Percent,Renters,Housing Mobility & Communications,Rented housing units
